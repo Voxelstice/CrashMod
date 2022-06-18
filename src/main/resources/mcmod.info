@@ -1,0 +1,16 @@
+[
+{
+  "modid": "crashmod",
+  "name": "Crash Mod",
+  "description": "The mod that crashes Minecraft after you die",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Voxelstice"],
+  "credits": "Dont care",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
